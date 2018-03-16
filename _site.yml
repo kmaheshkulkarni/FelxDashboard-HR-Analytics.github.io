@@ -1,0 +1,6 @@
+name: "HR Dashboard"
+navbar:
+  title: "HR Dashboard"
+  left:
+    - text: "Home"
+      href: index.html
